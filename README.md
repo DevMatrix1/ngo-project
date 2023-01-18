@@ -39,15 +39,16 @@ Website was built using the following technologies:
    5. Faculty page
 
 
+
 ### Refer this website to get Some idea
    1. <a href="https://www.fcjamshedpur.com/">fcjamshedpur</a>
    2. <a href="https://www.the-aiff.com/">the-aiff</a>
    3. <a href="http://www.allstarsfootballclub.com/">allstarsfootballclub</a>
    
 ## 🧰 Contributing
-
 - Contributions make the open source community an amazing place to learn, inspire, and create.
 - Any contributions you make are **truly appreciated**.
+- See the <a href="https://quartz-pantry-0c1.notion.site/Proposal-2a2d943b9f5940b69c3a6de32824c5dd">Proposal</a> Before contributing.
 - Let's continue contributing to keep the community active and growing.
 
 ## 🙏 Support
