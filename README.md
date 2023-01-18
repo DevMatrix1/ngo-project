@@ -31,8 +31,26 @@ Website was built using the following technologies:
     7. Sponsors section
     8. The footer section includes social media, google map etc
 
-For ex:-Something like this
-<img width="1067" alt="Screenshot_20230115_170810" src="https://user-images.githubusercontent.com/107163260/213106774-096f49e2-3c89-4ce6-ae27-22b80e1c3ec6.png">
+- **others pages include**
+   1. News page
+   2. Players and coach image pages
+   3. Photos and video page
+   4. A page includes a registration form for players, and referees and a download certificate page i.e. we provided by searching the name of the user and they can download the certificate
+   5. Faculty page
 
 
+### Refer this website to get Some idea
+   1. <a href="https://www.fcjamshedpur.com/">fcjamshedpur</a>
+   2. <a href="https://www.the-aiff.com/">the-aiff</a>
+   3. <a href="http://www.allstarsfootballclub.com/">allstarsfootballclub</a>
+   
+## 🧰 Contributing
+
+- Contributions make the open source community an amazing place to learn, inspire, and create.
+- Any contributions you make are **truly appreciated**.
+- Let's continue contributing to keep the community active and growing.
+
+## 🙏 Support
+
+Don't forget to leave a star ⭐️
 
