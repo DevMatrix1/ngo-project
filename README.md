@@ -14,13 +14,22 @@ Website was built using the following technologies:
 - [Tailwind CSS](https://tailwindcss.com/) 
 - [Firebase](https://firebase.google.com/)
 
+## Benefits:
 
-## Team working on this project:
-1. Ankit Kanyal
-2. Shubham Kumar Singh
-3. Ankit Baghel
-4. Subhankar
-5. Kotesh Mudila
-6. Nuha Khan
-7. Kartik
-8. Arun Gupta
+1. Certification
+2. Referrals
+
+### How the website looks like:
+
+- **A front page**
+1. Sliding section
+2. About Community
+3. Featured Players section
+4. News section
+5. Gallery section
+6. Get involved/join us section for ex: how to join, donate, participate in the competition, volunteering
+7. Sponsors section
+8. The footer section includes social media, google map etc
+
+**For ex:-**Something like this
+
