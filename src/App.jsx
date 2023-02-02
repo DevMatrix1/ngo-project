@@ -1,15 +1,16 @@
 import { useState } from "react";
 
 import "./App.css";
-import { Navbar } from "./components/Navbar/Navbar";
-import { Maintenance } from "./pages/Maintenance/Maintenance";
 
+import MailForm from "./components/MailForm";
+// import Home from "./pages/Home/Home";
+// import About from "./pages/About/About";
 function App() {
   return (
-    <>
-      <Navbar />
-      <Maintenance/>
-    </>
+    // <Home />
+    // <About/>
+    <MailForm />
+
   );
 }
 
