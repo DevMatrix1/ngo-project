@@ -1,0 +1,31 @@
+.mnt {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    width:42%;
+    top: 20px;
+    z-index: -1;
+}
+
+@media(max-width:550px) {
+    .mnt {
+        position: relative;
+        top: 60px;
+        width: 100%;
+    }
+}
+@media(min-width:551px) {
+    .mnt {
+        position: relative;
+        top: 60px;
+        width: 60%;
+    }
+}
+@media(min-width:900px) {
+    .mnt {
+        position: relative;
+        top: 60px;
+        width: 40%;
+    }
+}
