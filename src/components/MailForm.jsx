@@ -93,7 +93,7 @@ const MailForm = () => {
                       Email address
                     </label>
                     <input
-                      type="text"
+                      type="email"
                       name="entry.220097671"
                       onChange={handleInputData("entry.220097671")}
                       value={formData["entry.220097671"]}
