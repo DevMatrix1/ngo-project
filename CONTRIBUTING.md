@@ -25,6 +25,10 @@ Once you have cloned the repository, now you should go into the folder containin
 cd ngo-project
 ```
 
+Now you should install the required packages to run this project by doing:
+```
+npm install
+```
 
 3. **Adding remote repository**
 
