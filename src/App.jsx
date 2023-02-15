@@ -7,7 +7,7 @@ import { Navbar } from "./components/Navbar/Navbar"
 
 
 
-// import MailForm from "./components/MailForm";
+import MailForm from "./components/MailForm";
 // import Home from "./pages/Home/Home";
 // import About from "./pages/About/About";
 
@@ -20,7 +20,7 @@ function App() {
     
     <Navbar/>
     <CarouselSlider/>
-    {/* <MailForm /> */}
+    <MailForm />
     </>
     
 
