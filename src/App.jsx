@@ -3,6 +3,7 @@ import { useState } from "react";
 import "./App.css";
 import { CarouselSlider } from "./components/Carousel/CarouselSlider";
 import { Navbar } from "./components/Navbar/Navbar"
+import {Gallery} from "./components/Gallery/Gallery";
 
 
 // import MailForm from "./components/MailForm";
@@ -13,9 +14,10 @@ function App() {
     <>
     {/* <Home /> */}
     {/* <About/> */}
-    
+    helkoo
     <Navbar/>
     <CarouselSlider/>
+    <Gallery/>
     {/* <MailForm /> */}
     </>
     
