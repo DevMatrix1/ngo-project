@@ -3,7 +3,7 @@ export default function Head()
 {
     return (
         <div className="head_top flex gap-6 flex-col font-serif">
-            <div className="bg-gradient-to-r from-red-500 via-red-600 to-red-700 w-[98vw] text-5xl text-white p-5">
+            <div className="bg-gradient-to-r from-red-500 via-red-600 to-red-700 w-[99vw] text-5xl text-white p-5">
                 <p>NEWS</p>
             </div>
             <div className="p-5">

@@ -32,11 +32,11 @@ export default [
     {
         id:5,
         title: "Jamshedpur: With the aim of finishing the Hero Indian Super League season 2022-23 with positives, the Men of Steel will.",
-        coverImg: "story/six.png",
+        coverImg: "story/one.png",
     },
     {
         id:6,
         title: "Jamshedpur: With the aim of finishing the Hero Indian Super League season 2022-23 with positives, the Men of Steel will.",
-        coverImg: "story/eight.png",
+        coverImg: "story/seven.png",
     }
 ]
