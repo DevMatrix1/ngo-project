@@ -1,22 +1,42 @@
 export default [
     {
         id:1,
-        title: "My story was Do you feel you are not ready for this new venture ? It’s Ok you ",
+        title: "Jamshedpur: With the aim of finishing the Hero Indian Super League season 2022-23 with positives, the Men of Steel will.",
         coverImg: "story/one.png",
     },
     {
         id:2,
-        title: "I went through years of infertility procedures.I was pregnant with twin girls, ",
+        title: "Jamshedpur: With the aim of finishing the Hero Indian Super League season 2022-23 with positives, the Men of Steel will.",
         coverImg: "story/two.png",
     },
     {
         id:3,
-        title: "I would not be here today if it weren't for Planned Parenthood I was... ",
+        title: "Jamshedpur: With the aim of finishing the Hero Indian Super League season 2022-23 with positives, the Men of Steel will.",
         coverImg: "story/three.png",
     },
     {
         id:4,
-        title: " I made a clinic appointment for the next day. Outside, protesters shouted",
+        title: "Jamshedpur: With the aim of finishing the Hero Indian Super League season 2022-23 with positives, the Men of Steel will.",
         coverImg: "story/four.png",
+    },
+    {
+        id:5,
+        title: "Jamshedpur: With the aim of finishing the Hero Indian Super League season 2022-23 with positives, the Men of Steel will.",
+        coverImg: "story/two.png",
+    },
+    {
+        id:6,
+        title: "Jamshedpur: With the aim of finishing the Hero Indian Super League season 2022-23 with positives, the Men of Steel will.",
+        coverImg: "story/seven.png",
+    },
+    {
+        id:5,
+        title: "Jamshedpur: With the aim of finishing the Hero Indian Super League season 2022-23 with positives, the Men of Steel will.",
+        coverImg: "story/six.png",
+    },
+    {
+        id:6,
+        title: "Jamshedpur: With the aim of finishing the Hero Indian Super League season 2022-23 with positives, the Men of Steel will.",
+        coverImg: "story/eight.png",
     }
 ]
