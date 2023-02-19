@@ -3,7 +3,7 @@ import "../Footer/Footer.css";
 
 function Footer() {
   return (
-    <div className="footer w-full mt-3  p-3 flex flex-col items-center bg-red-500">
+    <div className="footer w-full p-2 mt-28 flex flex-col items-center bg-red-500">
       <h2 className="font-bold  ">Follow Us on </h2>
       <div className=" flex flex-row justify-between h-10 items-center w-1/6   ">
         <img
