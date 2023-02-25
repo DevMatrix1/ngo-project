@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-
 import "./HeaderCarousel.css";
 
 import { FcPrevious } from "react-icons/fc";

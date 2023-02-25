@@ -9,7 +9,7 @@ export const Navbar = () => {
         setIsActive(current => !current);
     };
 
-
+    
     return (
         <>
             <header>
