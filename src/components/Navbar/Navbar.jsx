@@ -9,7 +9,7 @@ export const Navbar = () => {
         setIsActive(current => !current);
     };
 
-
+    
     return (
         <>
             <header>
@@ -28,10 +28,10 @@ export const Navbar = () => {
                             <a className='nav-link' href="/">SQUAD</a
                             ></li>
                         <li className='nav-item'>
-                            <a hre className='nav-link' href="/">GALLERY</a>
+                            <a className='nav-link' href="/">GALLERY</a>
                         </li>
                         <li className='nav-item'>
-                            <a hre className='nav-link' href="/">FACULTY</a>
+                            <a className='nav-link' href="/">FACULTY</a>
                         </li>
                         <li className='nav-item'>
                             <a className='nav-link' href="/">APPLY</a>
