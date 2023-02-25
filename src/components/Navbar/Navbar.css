@@ -22,7 +22,7 @@ li {
 } */
 
 .navbar {
-    height: 70px;
+    height: 10vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -106,7 +106,7 @@ li {
     .nav-menu{
         flex-direction: column;
         position: fixed;
-        top:70px;
+        top:56px;
         right: -100%;
         gap:0;
         background-color: rgb(45, 45, 45);
