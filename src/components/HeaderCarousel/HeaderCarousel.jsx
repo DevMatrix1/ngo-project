@@ -12,7 +12,7 @@ import image5 from "../../images/header/image5.jpg";
 
 const images = [image1, image2, image3, image4, image5];
 
-const HeaderCarousel = () => {
+export const HeaderCarousel = () => {
   const [selectedImage, setSelectedImage] = useState(0);
   const [allImages, setAllImages] = useState(images);
 
@@ -57,4 +57,4 @@ const HeaderCarousel = () => {
   );
 };
 
-export default HeaderCarousel;
+// export default HeaderCarousel;
