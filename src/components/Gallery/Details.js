@@ -29,12 +29,12 @@ export const Details =  [
 "type":"Image"  ,
 "Heading":`Matchday 17 Highlights #NEUJFC`,
 "Date":`04 Feb, 2023`,
-"Image":`bg-[url(https://images.pexels.com/photos/94953/pexels-photo-94953.jpeg?auto=compress&cs=tinysrgb&w=1600)]`
+"Image":`bg-[url(https://i.pinimg.com/originals/70/30/47/703047284252154002ab4ee945f036fc.jpg)]`
 },
 {
 "type":"Image"  ,
 "Heading":`Our young midfielder Phijam Vikash Singh talks about his journey to the first team and shared his thoughts ahead of #NEUJFC`,
 "Date":`03 Feb, 2023`,
-"Image":`bg-[url(https://images.pexels.com/photos/4430319/pexels-photo-4430319.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)]`
+"Image":`bg-[url(https://i.pinimg.com/originals/a3/79/3e/a3793e09e225509bedc63ebaceed901f.jpg)]`
 }
 ]

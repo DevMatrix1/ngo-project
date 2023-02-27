@@ -6,8 +6,8 @@ import pic4 from "./gallery/display/pic4.png";
 import pic5 from "./gallery/display/pic5.png";
 import pic6 from "./gallery/display/pic6.png";
 
-//BG
-import Cover from './gallery/elements/Cover.png'
+//B
+let Cover =  `bg-[url(https://wallpaperaccess.com/full/7488635.jpg)]`
 
 //Elements
 import playIcon from './gallery/elements/play.png'
