@@ -3,6 +3,7 @@
     width: 100vw;
     height: 90vh;
     text-align: center;
+    color: white;
     background: rgb(19, 16, 16);
     background: linear-gradient(180deg, rgba(19, 16, 16, 1) 1%, rgba(45, 44, 45, 0.9640231092436975) 96%);
     padding: 10vh 0;
@@ -63,6 +64,7 @@ p {
 }
 
 .social {
+
     width: 25vw;
     margin: 0 auto;
     margin-top: 80px;
